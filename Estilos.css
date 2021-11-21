@@ -1,0 +1,66 @@
+
+#encabezado{
+width:1280px;
+height:100px;
+background:#f9fcfc;
+margin:auto;
+
+}
+.logo{
+    width:90px;
+}
+.logo2{
+    width:90px;
+}
+#menu{
+width:1280px;
+height:70px;
+background:#7f64f7;
+margin:auto;
+text-align: center;
+font-size:32px ;
+}
+#bt_registro{
+    position: absolute;
+       
+}
+#cuerpo{
+width:1280px;
+height:700px;
+background:#f5f4f3;
+margin:auto;
+text-align: center;
+}
+.maquina{
+    height: 400px;
+ 
+}
+#pie{
+    text-align: center;
+width:1280px;
+height:90px;
+background:#7f64f7;
+margin:auto;
+}
+h1{
+  color: black;  
+  font-size: 32px;
+}
+p{
+    color: darkslategray;
+    font-size: 28px;
+    font-family: Arial;
+}
+
+ h2{
+     color:antiquewhite;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ p1{
+     color: antiquewhite;
+     line-height: 20px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+ }
+
+</style>
